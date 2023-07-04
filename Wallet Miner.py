@@ -39,7 +39,7 @@ logo = """
        +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*
 """
 os.system("mode con cols=92 lines=52")
-os.system("title " + "Wallet Miner || Andrei920#2180")
+os.system("title " + "Wallet Miner || fer#0001")
 class Code:
    def __init__(self):
       print(f"{Col.dark_red}{logo}")
