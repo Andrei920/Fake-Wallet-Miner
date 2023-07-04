@@ -43,7 +43,7 @@ os.system("title " + "Wallet Miner || Andrei920#2180")
 class Code:
    def __init__(self):
       print(f"{Col.dark_red}{logo}")
-      print(f"\t\t\t     #{Col.white} Coded by Andrei{Col.dark_red}#2180")
+      print(f"\t\t\t     #{Col.white} Coded by fer{Col.dark_red}#0001")
       try:
          c = int(input(f"""
 {Col.white}[{Col.dark_red}1{Col.white}]{Col.dark_red} BTC Wallet Miner
